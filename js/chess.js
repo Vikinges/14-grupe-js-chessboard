@@ -2,7 +2,7 @@
 
 const board = document.querySelector('.board');
 const rowsCount = 8;
-const columnsCount = 8;
+const columnsCount =8;
 const firstColor = '#fff';
 const secondColor = '#000';
 let color = '';
